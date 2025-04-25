@@ -1,6 +1,6 @@
 ### Hi there 👋, Witam na moim profilu 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  JS / REACT / C# / JS / HTML / CSS / SQL / LUA
 
 - 🔭 I’m currently working on projects 
 - 💬 Ask me about all 
